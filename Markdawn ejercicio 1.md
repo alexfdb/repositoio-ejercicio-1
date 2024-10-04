@@ -1,6 +1,10 @@
+
 # :blush: Tarea repositorio GitHub :blush: #
+
 <br></br>
+
 ## :relieved: Comprobar versión de git, el usuario, email y clonar repositoio :relieved: ##
+
 ```
 PS C:\Users\Alexa> git --version
 git version 2.46.2.windows.1
@@ -15,8 +19,11 @@ remote: Counting objects: 100% (3/3), done.
 remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
 Receiving objects: 100% (3/3), done.
 ```
+
 <br></br>
+
 ## :flushed: Modificar el archivo README.md :flushed: ##
+
 ```
 PS C:\Users\Alexa> cd .\repositoio-ejercicio-1\
 PS C:\Users\Alexa\repositoio-ejercicio-1> git add .\README.md
@@ -34,8 +41,11 @@ Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
 To https://github.com/alexfdb/repositoio-ejercicio-1
    655a35b..361a868  main -> main
 ```
+
 <br></br>
+
 ## :grin: Actualizar en local, añadir nuevos cambios y subirlos a GitHub :grin: ##
+
 ```
 PS C:\Users\Alexa\repositoio-ejercicio-1> git pull origin main
 remote: Enumerating objects: 5, done.
@@ -65,5 +75,6 @@ remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To https://github.com/alexfdb/repositoio-ejercicio-1
    86bb62e..73d7ac1  main -> main
 ```
+
 *No se como crear la carpeta para añadirte el pantallazo de los commits* :sweat: <br>
 *Y tuve problemas con la MV por eso el terminal es de mi maravilloso win 11* :heart:
